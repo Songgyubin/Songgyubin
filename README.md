@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=364765&textBg=282829&fontColor=FAF7F5&height=300&section=header&text=Songgyubin&desc=Android%20Developer&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=364765&textBg=282829&fontColor=FAF7F5&height=300&section=header&text=Songgyubin&desc=Android%20Developer&fontSize=40)
 
 Please report any bugs in your app to my email!
 
