@@ -6,7 +6,7 @@ I would love to contribute 🏃🏻‍➡️
 
 [![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thd0427@gmail.com)
 
-## 🚀 오픈 소스 기여
+## 🚀 Contributor to
 
 
 ### NowInAndroid
