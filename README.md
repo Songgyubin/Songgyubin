@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=364765&textBg=282829&fontColor=FAF7F5&height=300&section=header&text=Songgyubin&desc=Android%20Developer&fontSize=40)
 
-Please report any bugs in your app to my email!
-
-I would love to contribute 🏃🏻‍➡️
 
 [![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thd0427@gmail.com)
 
@@ -24,13 +21,6 @@ I would love to contribute 🏃🏻‍➡️
 ---
 ### DroidKaigi
 [DroidKaigi](https://github.com/DroidKaigi/conference-app-2024)는 일본에서 열리는 연례 안드로이드 컨퍼런스를 위한 오픈 소스 앱입니다.
-<details>
-  <summary><strong>📌 Current Contributions: 아이템 중복되는 문제 수정</strong></summary>
-
-  - [PR #874: Fix duplicated language filter items](https://github.com/DroidKaigi/conference-app-2024/pull/874)
-  - [Issue #842: Duplicated language filter items on SearchScreen](https://github.com/DroidKaigi/conference-app-2024/issues/842)
-  
-</details>
 <details>
   <summary><strong>✨ Recent Contributions: 제기된 UI 불일치 이슈와 추가로 발견한 UI 불일치 부분 수정</strong></summary>
 
