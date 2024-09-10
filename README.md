@@ -22,9 +22,9 @@
 ### DroidKaigi
 [DroidKaigi](https://github.com/DroidKaigi/conference-app-2024)는 일본에서 열리는 연례 안드로이드 컨퍼런스를 위한 오픈 소스 앱입니다.
 <details>
-  <summary><strong>✨ Recent Contributions: 제기된 UI 불일치 이슈와 추가로 발견한 UI 불일치 부분 수정</strong></summary>
+  <summary><strong>✨ Recent Contributions: 구성 변경 시 데이터 유지되지 않는 부분 개선</strong></summary>
 
-  - [PR #844: Fix profile card screen padding](https://github.com/DroidKaigi/conference-app-2024/pull/844)  
-  - [Issue #771: In EditScreen, vertical padding of CreateButton is narrow](https://github.com/DroidKaigi/conference-app-2024/issues/771)
+  - [PR #941: fix input values not maintained](https://github.com/DroidKaigi/conference-app-2024/pull/941)  
+  - [Issue #737: In ProfileCardScreen, edited content disappears when screen size is changed while editing a Profile](https://github.com/DroidKaigi/conference-app-2024/issues/737#event-14129178164)
   
 </details>
