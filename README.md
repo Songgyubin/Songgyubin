@@ -5,6 +5,18 @@
 
 ## 🚀 Contributor to
 
+### oh-my-claudecode
+[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)는 Claude Code를 위한 멀티 에이전트 오케스트레이션 레이어입니다.
+<details>
+  <summary><strong>✨ Recent Contributions: 플러그인 컨텍스트에서 omc update 시 CLAUDE.md 버전이 갱신되지 않는 버그 수정</strong></summary>
+
+  - [PR #2002: fix(installer): update CLAUDE.md even when running in plugin context](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/2002)
+  - **문제:** Claude Code 세션 내에서 `omc update` 실행 시 `CLAUDE_PLUGIN_ROOT` 환경 변수가 자식 프로세스에 상속되어 CLAUDE.md 업데이트 블록이 통째로 스킵되는 버그
+  - **수정:** CLAUDE.md 업데이트 블록을 `!runningAsPlugin` 가드 밖으로 이동하고 `!projectScoped` 조건으로 대체
+  
+</details>
+
+---
 
 ### NowInAndroid
 [NowInAndroid](https://github.com/android/nowinandroid)는 최신 안드로이드 개발을 보여주는 프로젝트입니다.
@@ -29,14 +41,5 @@
   
 </details>
 
----
-### oh-my-claudecode
-[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)는 Claude Code를 위한 멀티 에이전트 오케스트레이션 레이어입니다.
-<details>
-  <summary><strong>✨ Recent Contributions: 플러그인 컨텍스트에서 omc update 시 CLAUDE.md 버전이 갱신되지 않는 버그 수정</strong></summary>
 
-  - [PR #2002: fix(installer): update CLAUDE.md even when running in plugin context](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/2002)
-  - **문제:** Claude Code 세션 내에서 `omc update` 실행 시 `CLAUDE_PLUGIN_ROOT` 환경 변수가 자식 프로세스에 상속되어 CLAUDE.md 업데이트 블록이 통째로 스킵되는 버그
-  - **수정:** CLAUDE.md 업데이트 블록을 `!runningAsPlugin` 가드 밖으로 이동하고 `!projectScoped` 조건으로 대체
-  
-</details>
+
